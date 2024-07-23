@@ -23,20 +23,6 @@
      F1->F2->F3->F4->F5;
    }
 
-The application specifies the input and output format; |vpl_short_name| configures the
-pipeline according to the specified input and output formats. The application
-can also attach one or more hint structures
-to configure individual filters or turn them on and off. Unless specifically
-instructed, |vpl_short_name| builds the pipeline in a way that best utilizes hardware
-acceleration or generates the best video processing quality.
-
-The :ref:`Video Processing Features table <vid-processing-feat-table>` shows |vpl_short_name|
-video processing features. The application can configure supported video
-processing features through the video processing I/O parameters. The application
-can also configure optional features through hints.
-See :ref:`Video Processing Procedures <vid_process_procedure>` for more details
-on how to configure optional filters.
-
 应用程序指定输入和输出格式；|vpl_short_name| 根据指定的输入和输出格式配置管道。
 应用程序还可以附加一个或多个结构体来配置单个过滤器或打开和关闭它们。除非特别设置，
 否则 |vpl_short_name| 会以最佳利用硬件加速或生成最佳视频处理质量的方式构建管道。
