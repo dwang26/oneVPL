@@ -10,7 +10,7 @@
 
 本章介绍使用 |vpl_short_name| 编程所使用的概念。
 
-C/C++ 应用程序必须使用包含文件 :file:`mfx.h` ，并链接 |vpl_short_name| 调度程序库 :file:`libvpl.so`。
+C/C++ 应用程序必须使用包含文件 :file:`mfx.h` ，并链接 |vpl_short_name| 调度程序库 :file:`libvpl.so` 。
 
 包含以下文件：
 

@@ -23,11 +23,11 @@
    VPL_intel_media_sdk-chinese
    architecture/index-chinese
    programming_guide/index-chinese
-   VPL_summary-chinese
-   API_ref/VPL_api_ref-chinese
-   Versioning-chinese
-   Experimental-chinese
-   appendix/index-chinese
-   VPL_acronyms-chinese
-   VPL_deprecation-chinese
-   VPL_change_log-chinese
+   VPL_summary
+   API_ref/VPL_api_ref
+   Versioning
+   Experimental
+   appendix/index
+   VPL_acronyms
+   VPL_deprecation
+   VPL_change_log
